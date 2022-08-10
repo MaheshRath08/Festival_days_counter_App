@@ -40,13 +40,13 @@ select{
     position: fixed;
     top: 2rem;
     left: 2rem;
-    background-color: rebeccapurple;
+    background-color: #410029;
     color: white;
     font-weight: 500 ;
     box-shadow: 0 0 10px 2px gold;
 }
 option{
-    background-color: lime;
-    color: black;
+    background-color: #410029;
+    color: goldenrod;
     font-weight: 600;
 }
