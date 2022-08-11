@@ -4,7 +4,7 @@
     font-family: sans-serif;
 }
 body{
-    background-color: #1a0011;
+    background-color: #13000c;
     color: goldenrod;
 }
 .main{
@@ -30,6 +30,7 @@ h1{
     text-align: center;
     font-size: 4rem;
     margin-top: 2rem;
+    text-shadow: 0 0 4px gold;
 }
 select{
     padding: 1rem 3rem;
@@ -43,7 +44,7 @@ select{
     background-color: #410029;
     color: white;
     font-weight: 500 ;
-    box-shadow: 0 0 10px 2px gold;
+    box-shadow: 0 0 7px 2px rebeccapurple;
 }
 option{
     background-color: #410029;
